@@ -3,7 +3,7 @@
 
 ![Imagen](http://2.1m.yt/lnojrMf.png "Imagen")
 
-Link del App Web: https://sacunao.github.io/soundrockmusic/
+Link del App Web: https://efarfan2393.github.io/soundrock/
 
 ##PLANEACIÓN DE PROYECTO
 
