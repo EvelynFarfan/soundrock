@@ -1,11 +1,11 @@
-#PROYECTO SOUNDROCK
+# PROYECTO SOUNDROCK
 <hr>
 
-![Imagen](http://2.1m.yt/lnojrMf.png "Imagen")
+<img src="https://vgy.me/tcUeOK.png">
 
-Link del App Web: https://efarfan2393.github.io/soundrock/
+Link del App Web: https://evelynfarfan.github.io/soundrock/
 
-##PLANEACIÓN DE PROYECTO
+## PLANEACIÓN DE PROYECTO
 
 Antecedentes:
 
@@ -15,24 +15,24 @@ Como parte del boom también se ven involucrados aquellas organizaciones dedicas
 
 Referencia: http://bit.ly/2fPpC42
 
-##1. OBJETIVO
+## 1. OBJETIVO
 
 Ser una página entretenida que te ofrezca servicios musicales con una lista perfecta para tus eventos.
 Diriga a organizaciones y a personas que deseen relizar un evento mediano a grande.
 
-##2. USUARIOS
+## 2. USUARIOS
 
 1. Estado
 2. Empresas privadas
 3. Público en general
 
-##3. PLANEACIÓN Y TRABAJO DE LA WEB
+## 3. PLANEACIÓN Y TRABAJO DE LA WEB
 
-###MODELO SCRUM
+### MODELO SCRUM
 
 Se decidió realizar el trabajo de la web bajo el framework de scrum para trabajar de una manera más ágil. En los dos días de duración del proyecto
 
-####<a name="teammembers"></a>TEAM MEMBERS
+#### <a name="teammembers"></a>TEAM MEMBERS
 * Sheila Acuña <sheila.aobregon@gmail.com>
 * Melissa Berrocal <melissa.berrocal@gmail.com>
 * Evelyn Farfan <e.farfanvaldivia@gmail.com>
@@ -40,20 +40,20 @@ Se decidió realizar el trabajo de la web bajo el framework de scrum para trabaj
 * Andrea Cabrera <andrea.palomino.ruby@gmail.com>
 
 
-###WIREFRAMES
+### WIREFRAMES
 
 El boceto de nuestra página es el siguiente:
 
 ![Imagen](http://4.1m.yt/8EutFLs.jpg "Imagen")
 
 
-###WORKFLOW
+### WORKFLOW
 
 El modo de trabajo grupal es designado por funcionalidades. Para organizar tiempos utilizamos la herramientas 
 
 ![Imagen](http://3.1m.yt/epELL94.png "Imagen")
 
-###CONTENIDO
+### CONTENIDO
 
 Página ofrece al usuario buscar temas con el nombre de sus artistas favoritos y simular efectos de una mezcladora DJ básica con la música elegida, asi el usuario puede mezclar con su canción seleccionada.
 
@@ -65,7 +65,7 @@ Página ofrece al usuario buscar temas con el nombre de sus artistas favoritos y
 ![Imagen](http://4.1m.yt/8EQ7C8H.png "Imagen")
 
 
-###REQUERIMIENTOS
+### REQUERIMIENTOS
 
 * El contexto del proyecto deber ser música / video
 
