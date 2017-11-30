@@ -1,7 +1,4 @@
 # PROYECTO SOUNDROCK
-<hr>
-
-<img src="https://vgy.me/tcUeOK.png">
 
 Link del App Web: https://evelynfarfan.github.io/soundrock/
 
@@ -39,31 +36,13 @@ Se decidió realizar el trabajo de la web bajo el framework de scrum para trabaj
 * Yeiny Gonzalez <yeinygonazalescifuentes@gmail.com>
 * Andrea Cabrera <andrea.palomino.ruby@gmail.com>
 
-
-### WIREFRAMES
-
-El boceto de nuestra página es el siguiente:
-
-![Imagen](http://4.1m.yt/8EutFLs.jpg "Imagen")
-
-
 ### WORKFLOW
 
 El modo de trabajo grupal es designado por funcionalidades. Para organizar tiempos utilizamos la herramientas 
 
-![Imagen](http://3.1m.yt/epELL94.png "Imagen")
-
 ### CONTENIDO
 
 Página ofrece al usuario buscar temas con el nombre de sus artistas favoritos y simular efectos de una mezcladora DJ básica con la música elegida, asi el usuario puede mezclar con su canción seleccionada.
-
-
-![Imagen](http://2.1m.yt/EGrEwyR.png "Imagen")
-
-![Imagen](http://2.1m.yt/qtrcrWH.png "Imagen")
-
-![Imagen](http://4.1m.yt/8EQ7C8H.png "Imagen")
-
 
 ### REQUERIMIENTOS
 
@@ -75,7 +54,7 @@ Página ofrece al usuario buscar temas con el nombre de sus artistas favoritos y
 
 * Usar una librería cool
 
-
+<img src="https://vgy.me/tcUeOK.png">
 
 
 
